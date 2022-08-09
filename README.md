@@ -23,6 +23,6 @@
 <a href="https://app.daily.dev/Kaneki"><img align="left" src="https://api.daily.dev/devcards/6b2b74bb4f2745f9b4d121f8e08ed168.png?r=8w6" width="400" alt="Abbas Asadzada's Dev Card"/></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabbasasadzada&show_icons=true&locale=en&layout=compact" alt="iamabbasasadzada" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamabbasasadzada&show_icons=true&locale=en" alt="iamabbasasadzada" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamabbasasadzada&show_icons=true&locale=en" alt="iamabbasasadzada" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabbasasadzada&" alt="iamabbasasadzada" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabbasasadzada&" alt="iamabbasasadzada" /></p>
