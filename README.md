@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing my data structures and algorithms skills**
 
-- 🌱 I’m currently learning **React and Java**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **iamabbasasadzada@gmail.com**
 
